@@ -1,0 +1,20 @@
+#Plugin Made By GamingIsArt
+#Version 1.2 
+#Do not Edit.
+
+#Changes the Motd in ther server.
+
+#use § for color codes.
+
+servermotd:
+ motd: '§6§lCustom Motd by §7§lTha_yt'
+
+#Join message when a player joins.
+
+join: '§eWelcome §7§l{player}'
+
+#leave message when a player leaves the server. 
+
+leave: '§4See You §7§l%{player}'
+
+maxplayers: '1000000'
